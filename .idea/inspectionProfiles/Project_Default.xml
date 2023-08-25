@@ -1,0 +1,50 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="E303" />
+          <option value="E127" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="siva.Module6_WebDevelopmentWithPython.django_sample_project.sampleproject.sampleproject.urls.jobSearchPortal" />
+          <option value="django.contrib.auth.models.User.DoesNotExist" />
+          <option value="quiz_app.models.questions.Questions.objects" />
+          <option value="quiz_app.models.questions.Questions.DoesNotExist" />
+          <option value="quiz_app.models.answered_questions.Answered_Questions.objects" />
+          <option value="quiz_app.models.feedback.Feedback.objects" />
+          <option value="siva.quiz_project.quiz_app.models.questions.Questions.objects" />
+          <option value="bid_amount" />
+          <option value="siva.online_auction_system_project.online_auction_app.models.Items.Items.objects" />
+          <option value="siva.online_auction_system_project.online_auction_app.models.Bid.Bid.objects" />
+          <option value="siva.online_auction_system_project.online_auction_app.models.auction_won.Auction_won.objects" />
+          <option value="siva.online_auction_system_project.online_auction_app.models.Automatic_Bid.Automatic_Bid.objects" />
+          <option value="siva.online_auction_system_project.online_auction_app.models.payment.Payment.objects" />
+          <option value="siva.online_auction_system_project.online_auction_app.models.Ratings.Ratings.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
